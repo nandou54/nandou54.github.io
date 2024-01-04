@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nanndo54.dev/sitemap.xml
